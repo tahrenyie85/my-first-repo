@@ -1,16 +1,14 @@
-# Sean Kross
+# Tah Ren Yie
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States of America
+I live in the city of Singapore.
 
 ### Reading
 
-Three of my favorite books are:
+My favorite books are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey HOuse* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- All books that interest me.
 
 ### Food
 
@@ -22,4 +20,4 @@ Last night I dreamt about eating in these restaurants:
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Twitter](https://twitter.com/tahrenyie85).
